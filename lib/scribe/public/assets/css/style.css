@@ -92,10 +92,14 @@
 }
 
 .jwt_notice {
-  background: #f9f2e9;
+  background: #DEF4E0;
   border-style: dashed;
   border-width: 1px;
   margin-bottom: 10px;
   padding-top: 8px;
   border-radius: 5px;
+}
+
+tr.auth_token_param {
+  background: #CAE9F5;
 }
